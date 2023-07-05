@@ -1,2 +1,4 @@
 # port-folio
-using html ,css,and jacascript
+using HTML, CSS, and javascript
+
+live link: https://safiq1027.github.io/port-folio/
